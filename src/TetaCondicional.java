@@ -6,7 +6,7 @@ public class TetaCondicional {
 	    boolean naoTenhoDinheiro = true;
 	    int quantidadedePessoas = 3;
 	    
-	    if(idade>18 || quantidadedePessoas>=3) 
+	    if(idade>=18 || quantidadedePessoas>=3) 
 	    { System.out.println("pode entrar!");
 	    	
 	    }
